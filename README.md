@@ -1,4 +1,4 @@
-<p align="center">Hello i'm **Louis Bourgeade**, a web developer from France, currently doing O'Clock course.</p>
+<p align="center">Hello i'm <b>Louis Bourgeade</b>, a web developer from France, currently doing O'Clock course.</p>
 
 ###
 
